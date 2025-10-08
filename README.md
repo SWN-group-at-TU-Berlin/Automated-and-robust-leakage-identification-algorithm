@@ -85,7 +85,7 @@ If you use LILA2 in your research, please cite:
   author = {E. Steins, N. Langer, J. Koslowski, A. Cominola},
   title = {Automated and robust leak identification algorithm},
   year = {2025},
-  url = {https://github.com/SWN-Group-at_TU-Berlin/Automated-and-robust-leakage-identification-algorithm}
+  url = {https://github.com/SWN-group-at-TU-Berlin/Automated-and-robust-leakage-identification-algorithm}
 }
 
 
